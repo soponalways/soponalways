@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/soponalways">
-  <img src="images/Banner.png" alt="Sopon Ahmed Banner" />
+  <img src="images/LinkedIn Cover Photo updated.png" alt="Sopon Ahmed Banner" />
 </a>
 
 <h1 align="center">👋 Hi, I'm Sopon Islam | MERN Stack Developer</h1>
