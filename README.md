@@ -112,7 +112,7 @@ I don't just write code — I think about architecture, user experience, and bus
 
 - SSR with Next.js 15 · Blog system with admin panel
 - Auth via **Better Auth** with custom SessionProvider pattern
-- Live: [sopon-islam.web.app](https://sopon-islam.web.app)
+- Live: [sopon-dev.vercel.app](https://sopon-dev.vercel.app)
 - Tech: **Next.js 15 · Prisma · PostgreSQL · Tailwind CSS v4 · DaisyUI v5**
 
 ---
